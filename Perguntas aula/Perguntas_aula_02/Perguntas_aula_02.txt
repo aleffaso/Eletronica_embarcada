@@ -1,0 +1,71 @@
+Por que o linux recebeu este nome?
+
+	Pois foi criado por Linus Torvalds e desta forma recebeu seu nome.
+
+
+O que são demons?
+
+	Usuário definido sobre demanda
+
+
+O que é shell?
+
+	O terminal de comando 
+
+
+Por que é importante evitar executar o terminal como super-usuário?
+
+	Pois como super-usuário a probablidade de causar danos irreparáveis maior
+
+
+Qual o botão do teclado completa o que o usuário escreve no terminal, de acordo com o contexto? TAB
+
+
+Quais botões do teclado apresentam instruções escritas anteriormente?
+
+	Setas para cima ou para baixo
+
+	
+
+Apresente os respectivos comandos no terminal para:
+
+
+	A) Obter mais informações sobre um comando: 
+
+	B) Apresentar uma lista com os arquivos dentro de uma pasta: ls
+
+	C) Apresentar o caminho completo da pasta: pwd
+
+	D) Trocar de pasta: cd 
+
+	E) Criar uma pasta: mkdir
+
+	F) Apagar arquivos definitivamente: rm
+
+	G) Apagar pastas definitivamente: 
+
+	H) Copiar arquivo: cp
+
+	I) Copiar pasta: cpdir
+
+	J) Mover arquivo: mv
+
+	K) Mover pasta: mvdir
+
+	L) Renomear pasta: mv old_name new_name
+
+	M) Apresentar o conteúdo de um arquivo:
+
+	N) Apreesentar o tipo de um arquivo: type
+
+	O) Limpar tela do terminal: clear
+
+	P) Encontrar ocorrência de uma palavra-chave em um arquivo-texto:
+
+	Q) Ordenar informações em um arquivo texto:
+
+	R) Substituir ocorrências de palavras-chave em um arquivo-texto:
+
+	S) Conferir se dois arquivos são iguais:
+
+	T) Escrever algo na tela: 

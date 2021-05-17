@@ -1,0 +1,18 @@
+﻿Data: 06/04/2017
+
+1. Apresente as características e utilidades das seguintes funções:
+	(a) popen() Abre um processo criando um pipe, fork e invocando shell;
+	(b) pclose() Fecha o processo criado;;
+	(c) fileno() retorna o numero do descritor dele
+
+2. Quais são as vantagens e desvantagens em utilizar:
+	(a) popen()?
+		Vantagens: ele já cria o pipe, fork e o comando shell
+		Desvantagens: Não poder utilizar o arquivo em paralelo
+	(b) exec()?
+		Vantagens:  
+		Desvantagens: Abre somente o processo
+
+
+
+
